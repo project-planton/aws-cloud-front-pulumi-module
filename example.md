@@ -48,4 +48,4 @@ spec:
 
 # Conclusion
 
-These examples demonstrate how to create an `AwsCloudFront` resource using minimal configuration. As the module gets further developed, more comprehensive examples will be provided to showcase additional features and capabilities.
+These examples demonstrate how to create an `AwsCloudFront` resource using minimal configuration. As the module gets further developed, more comprehensive examples will be provided to showcase additional features and capabilities
